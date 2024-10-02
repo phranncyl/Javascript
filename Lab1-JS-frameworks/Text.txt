@@ -1,0 +1,7 @@
+Node.js is not a programming language; it is a runtime environment allowing you to execute JavaScript code on the server side, outside a web browser.
+Built on the V8 JavaScript engine from Chrome, Node.js compiles JavaScript into machine code for efficient execution.
+It extends JavaScript capabilities by providing additional features and libraries for server-side development, such as file system access, network communication, and asynchronous I/O operations.
+
+While JavaScript is the programming language used with Node.js, the runtime environment provides the tools and frameworks to build scalable and high-performance server applications.
+Node.js’s non-blocking, event-driven architecture makes it ideal for real-time applications, web servers, APIs, and more.
+In summary, Node.js is a robust environment that leverages JavaScript to enable server-side programming, but it is not a programming language.
