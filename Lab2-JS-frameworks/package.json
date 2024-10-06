@@ -1,0 +1,27 @@
+{
+  "name": "lab2-js-frameworks",
+  "version": "1.0.0",
+  "description": "A simple lab to learn about module export, import and use the functions of imported module.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdanwarulkabir/Lab2-JS-frameworks.git"
+  },
+  "keywords": [
+    "node",
+    "project",
+    "module",
+    "export",
+    "import"
+  ],
+  "author": "Md Anwarul Kabir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdanwarulkabir/Lab2-JS-frameworks/issues"
+  },
+  "homepage": "https://github.com/mdanwarulkabir/Lab2-JS-frameworks#readme"
+}
