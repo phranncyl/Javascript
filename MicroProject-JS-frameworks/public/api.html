@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Prime Auto Hub - Home</title>
+  <link href="css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container">
+      <!-- Header Section -->
+      <header>
+          <div class="header-left">
+              <div class="header-logo">
+                  <a href="index.html"> 
+                      <img src="img/logo.png" alt="Prime Auto Hub Logo" class="logo" />
+                  </a>
+                  <div class="company-name">
+                      <h1>Prime Auto Hub</h1>
+                  </div>
+                  <div class="slogan">
+                      <p>Drive Your Dream with Prime Auto Hub</p>
+                  </div>
+              </div>
+          </div>
+          <nav id="main-nav">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="cars.html">Cars</a></li>
+                <li><a href="api.html">API Demo</a></li>
+                <li><a href="about.html">About Us</a></li>
+            </ul>
+          </nav>
+      </header>
+
+        <!-- Main Section -->
+        <main>
+            <h1>API Demo: Fetching Car Data</h1>
+            <p>Welcome to the <strong>API Demo</strong> page! Here, we demonstrate how to retrieve car data and display it dynamically on the webpage. Currently, we are fetching this data from a local <code>JSON</code> file using a <strong>callback function</strong> to simulate the process of loading data.</p>
+
+            <p>Once the "Get Car Data With Async/Await" button is clicked, the page will load car information such as <strong>make</strong>, <strong>model</strong>, <strong>price</strong>, <strong>year</strong>, and <strong>car images</strong> into a table format. This data is currently being fetched from a local JSON file, which contains car details of various brands and models.</p>
+
+            <p>Currently, the data is being retrieved via a callback function from this static <code>JSON</code> file. However, we plan to enhance the functionality by integrating an external API in the future to fetch real-time data for the cars. This will allow for greater scalability and the inclusion of up-to-date vehicle listings.</p>
+
+            <p>Click the button below to fetch and view the car data:</p>
+
+            
+            <!-- Button to Fetch Data -->
+            <button type="button" id="getAsync">Get Car Data With Async/Await</button>
+
+            <!-- Table for Car Data -->
+            <div id="car-table-container" style="display:none;">
+                <table id="car-table">
+                    <!-- Table content will be inserted dynamically here -->
+                </table>
+            </div>
+            <script src="./js/script.js"></script>
+        </main>
+
+        <!-- Footer Section -->
+        <footer>
+            <p>&copy; 2024 Prime Auto Hub - All rights reserved</p>
+        </footer>
+    </div>
+</body>
+
+</html>

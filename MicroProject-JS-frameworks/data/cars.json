@@ -1,0 +1,23 @@
+[
+    { "id": 1, "make": "Toyota", "model": "Corolla", "price": 20000, "year": 2022, "image": "/website/img/inv/toyota-corolla.jpg" },
+    { "id": 2, "make": "Honda", "model": "Civic", "price": 22000, "year": 2023, "image": "/website/img/inv/honda-civic.jpg" },
+    { "id": 3, "make": "Ford", "model": "Focus", "price": 19000, "year": 2021, "image": "/website/img/inv/ford-focus.jpg" },
+    { "id": 4, "make": "Chevrolet", "model": "Malibu", "price": 23000, "year": 2023, "image": "/website/img/inv/chevrolet-malibu.jpg" },
+    { "id": 5, "make": "Tesla", "model": "Model 3", "price": 35000, "year": 2024, "image": "/website/img/inv/tesla-model3.jpg" },
+    { "id": 6, "make": "BMW", "model": "3 Series", "price": 40000, "year": 2023, "image": "/website/img/inv/bmw-3series.jpg" },
+    { "id": 7, "make": "Toyota", "model": "Camry", "price": 25000, "year": 2023, "image": "/website/img/inv/toyota-camry.jpg" },
+    { "id": 8, "make": "Toyota", "model": "RAV4", "price": 27000, "year": 2022, "image": "/website/img/inv/toyota-rav4.jpg" },
+    { "id": 9, "make": "Honda", "model": "Accord", "price": 28000, "year": 2023, "image": "/website/img/inv/honda-accord.jpg" },
+    { "id": 10, "make": "Honda", "model": "CR-V", "price": 32000, "year": 2024, "image": "/website/img/inv/honda-crv.jpg" },
+    { "id": 11, "make": "Ford", "model": "Mustang", "price": 45000, "year": 2024, "image": "/website/img/inv/ford-mustang.jpg" },
+    { "id": 12, "make": "Ford", "model": "Explorer", "price": 35000, "year": 2022, "image": "/website/img/inv/ford-explorer.jpg" },
+    { "id": 13, "make": "Chevrolet", "model": "Tahoe", "price": 50000, "year": 2024, "image": "/website/img/inv/chevrolet-tahoe.jpg" },
+    { "id": 14, "make": "Chevrolet", "model": "Equinox", "price": 31000, "year": 2023, "image": "/website/img/inv/chevrolet-equinox.jpg" },
+    { "id": 15, "make": "Tesla", "model": "Model S", "price": 80000, "year": 2024, "image": "/website/img/inv/tesla-models.jpg" },
+    { "id": 16, "make": "Tesla", "model": "Model X", "price": 90000, "year": 2023, "image": "/website/img/inv/tesla-modelx.jpg" },
+    { "id": 17, "make": "BMW", "model": "5 Series", "price": 60000, "year": 2023, "image": "/website/img/inv/bmw-5series.jpg" },
+    { "id": 18, "make": "BMW", "model": "X5", "price": 70000, "year": 2024, "image": "/website/img/inv/bmw-x5.jpg" },
+    { "id": 19, "make": "Toyota", "model": "Highlander", "price": 35000, "year": 2023, "image": "/website/img/inv/toyota-highlander.jpg" },
+    { "id": 20, "make": "Honda", "model": "Pilot", "price": 38000, "year": 2023, "image": "/website/img/inv/honda-pilot.jpg" }
+    
+]
